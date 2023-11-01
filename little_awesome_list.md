@@ -31,3 +31,7 @@
 是一个应用于脑-计算机接口 (BCI) 的转移学习方法，旨在处理不同会话和/或不同主体记录的电脑图信号的统计​1​)】. 由于其对几何的认识，该方法被命名为 Riemannian Procrustes ​2​​3​)】. 该方法通过执行分类任务来评估通过 RPA 进行转移学习的改进，这些任务是在模拟数据和公开可用的 BCI 数据集上执行的，覆盖了三种实验范例，总共包括243个​2​)】
 #### 100.1.1 https://github.com/plcrodrigues/RPA
 
+### 100.2 https://github.com/tsuru/rpaas-operator
+Reverse Proxy as a Service
+
+
